@@ -1,2 +1,5 @@
-*.class
-*.log
+/.cache-main
+/.cache-tests
+/bin/
+/target/
+/_confidential/

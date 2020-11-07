@@ -1,2 +1,2 @@
 # query-to-xml
-query-to-xml: query toxml
+query-to-xml: query to xml
